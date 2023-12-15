@@ -1,0 +1,22 @@
+{
+  "name": "typescript-lab",
+  "version": "1.0.0",
+  "description": "Base code to make the laboratory of convert js to ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ada-school/typescript-labs.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Ada School",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ada-school/typescript-labs/issues"
+  },
+  "homepage": "https://github.com/ada-school/typescript-labs#readme"
+}
